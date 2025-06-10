@@ -232,7 +232,7 @@ const ExampleContent = () => {
                     value={stat.value}
                     prefix={stat.prefix}
                     suffix={stat.suffix}
-                    valueStyle={{ color: "#646cffaa", fontWeight: "bold" }}
+                    valueStyle={{ color: "white", fontWeight: "bold" }}
                   />
                 </div>
                 <div className="text-3xl opacity-80">{stat.icon}</div>
